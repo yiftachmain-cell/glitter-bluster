@@ -6,7 +6,7 @@ This is an April fools prank that when you get close to it, it pops glitter on y
 
 **📖A little about the story of this project and its purpose:** 
 
-I remember that some day I thought about the tv show: "the rookie", in one of the episodes there was a device hidden in a public trash can, it was a simulated bomb that instead of exploding on you it shoots powder on you. So I thought to myself: "Hmmmm why won't I make one my self" and then my brain started braining and thinking of ideas for how can I do it? Eventually I thought to make it as an April fools prank, that shoots glitter on you. but how would it know if you're even there and it actually shoots the glitter on some one? So the solution for it was adding a distance sensor. when the someone gets close to the device it opens a door, pops a balloon and on the balloon there is glitter so it makes it pop at you.🎉
+I remember that some day I thought about the tv show: "the rookie", in one of the episodes there was a device hidden in a public trash can, it was a simulated bomb that instead of exploding on you it shoots powder on you. So I thought to myself: "Hmmmm why won't I make one my self" and then my brain started braining and thinking of ideas for how can I do it? Eventually I thought to make it as an April fools prank, that shoots glitter on you. but how would it know if you're even there and it actually shoots the glitter on some one? So the solution for it was adding a distance sensor. when someone gets close to the device it opens a door, pops a balloon and on the balloon there is glitter so it makes it pop at you.🎉
 #
 
 **⚙️How it works?**
@@ -25,3 +25,5 @@ When the Time Of Flight sensor (the distance sensor) detects something, it opens
 | **tp4056 Type-c** | Charging module | 1 | 9.92 | https://www.aliexpress.us/item/3256812097129326.html?spm=a2g0o.productlist.main.6.1b371a6eCVGZzB&algo_pvid=c712f71f-732b-43c9-aaa0-53d25ca5e540&algo_exp_id=c712f71f-732b-43c9-aaa0-53d25ca5e540-5&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%219.71%211.55%21%21%2165.43%2110.47%21%4021015b7d17807544004281675e4a41%2112000057972512104%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aedcac39%3Bm03_new_user%3A-29895&curPageLogUid=ENYx9vBl60i7&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012283444078%7C_p_origin_prod%3A |
 
 **Pleas note that the prices in the BOM table are WITHOUT the usual discount of AliExpress (the prats are very likely to be cheaper then what the table says)**
+#
+Watch the [demonstaration video](https://youtu.be/rQq0RQDpbUs) I made of how the glitter bluster functions.
