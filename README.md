@@ -28,4 +28,4 @@ When the Time Of Flight sensor (the distance sensor) detects something, it opens
 
 **Pleas note that the prices in the BOM table are WITHOUT the usual discount of AliExpress (the prats are very likely to be cheaper then what the table says)**
 #
-Watch the [demonstaration video](https://youtu.be/rQq0RQDpbUs) I made of how the glitter bluster functions.
+Watch the [demo video](https://youtu.be/UB9MXop2fOg) of how the glitter bluster functions.
