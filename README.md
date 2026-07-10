@@ -12,7 +12,9 @@ I remember that some day I thought about the tv show: "The Rookie", in one of th
 **⚙️How it works:**
 
 When the Time Of Flight sensor (the distance sensor) detects something, it opens a door controlled by a servo connected with a pushrod. After the door is opened there is a rack and pinion mechanism that controls a pin, when the pin is all the way out it pops the balloon and shoots the glitter.
+
 <img width="666" height="374" alt="glitter bluster pics" src="https://github.com/user-attachments/assets/1b02d6ab-b5c2-471a-8210-d4ce33b68480" />
+
 #
 
 # BOM Table
@@ -34,6 +36,7 @@ Watch the [demo video](https://youtu.be/UB9MXop2fOg) showing how the Glitter Blu
 # Glitter Bluster Assembly Guide:
 [<img src="https://github.com/user-attachments/assets/59e66ebe-bdc4-4d0c-827a-81d3193be356" alt="Glitter Bluster Assembly Guide" width="100%">](https://www.youtube.com/watch?v=8ktf_xdbQtQ)
 Click the image to watch the Assembly Guide
+#
 
 # Printing recommendations:
 - Don't print the case with the default parameters, it would take a lot more material than needed.
@@ -47,4 +50,6 @@ Click the image to watch the Assembly Guide
 - Recommended printing variation of all of the parts:
   <img width="2021" height="1112" alt="image" src="https://github.com/user-attachments/assets/354de6c0-282b-4986-bb42-8f221d28cbf3" />
 
+#
 $\color{red}{\text{Build at your own risk}}$.
+#
