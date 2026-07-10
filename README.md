@@ -4,12 +4,12 @@ This is an April fools prank that when you get close to it, it pops glitter on y
 #
 
 
-**📖A little about the story of this project and its purpose:** 
+**A little about the story of this project and its purpose:** 
 
 I remember that some day I thought about the tv show: "The Rookie", in one of the episodes there was a device hidden in a public trash can, it was a simulated bomb that instead of exploding on you it shoots powder on you. So I thought to myself: "Hmmmm why won't I make one myself" and then my brain started braining and thinking of ideas for how can I do it? Eventually I thought to make it as an April fools prank, that shoots glitter on you. But how would it know if you're even there and it actually shoots the glitter on someone? So the solution for it was adding a distance sensor. When someone gets close to the device it opens a door, pops a balloon and on the balloon there is glitter so it makes it pop on you.
 #
 
-**⚙️How it works:**
+**How it works:**
 
 When the Time Of Flight sensor (the distance sensor) detects something, it opens a door controlled by a servo connected with a pushrod. After the door is opened there is a rack and pinion mechanism that controls a pin, when the pin is all the way out it pops the balloon and shoots the glitter.
 
