@@ -1,4 +1,4 @@
-# Glitter Bluster
+### Glitter Bluster
 This is an April fools prank that when you get close to it, it pops glitter on you.
 <img width="666" height="374" alt="Untitled design" src="https://github.com/user-attachments/assets/c0d9ce80-6aee-4520-8a82-3b488a35cd54" />
 #
@@ -33,6 +33,7 @@ Watch the [demo video](https://youtu.be/UB9MXop2fOg) showing how the Glitter Blu
 
 # Glitter Bluster Assembly Guide:
 [<img src="https://github.com/user-attachments/assets/59e66ebe-bdc4-4d0c-827a-81d3193be356" alt="Glitter Bluster Assembly Guide" width="100%">](https://www.youtube.com/watch?v=8ktf_xdbQtQ)
+Click the image to watch the Assembly Guide
 
 # Printing recommendations:
 - Don't print the case with the default parameters, it would take a lot more material than needed.
@@ -46,3 +47,4 @@ Watch the [demo video](https://youtu.be/UB9MXop2fOg) showing how the Glitter Blu
 - Recommended printing variation of all of the parts:
   <img width="2021" height="1112" alt="image" src="https://github.com/user-attachments/assets/354de6c0-282b-4986-bb42-8f221d28cbf3" />
 
+$\color{red}{\text{Build at your own risk}}$.
