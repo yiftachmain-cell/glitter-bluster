@@ -51,5 +51,5 @@ Click the image to watch the Assembly Guide
   <img width="2021" height="1112" alt="image" src="https://github.com/user-attachments/assets/354de6c0-282b-4986-bb42-8f221d28cbf3" />
 
 #
-$\color{red}{\text{Build at your own risk}}$.
+$\color{red}{\text{Use at your own risk}}$.
 #
