@@ -1,5 +1,5 @@
 ### Glitter Bluster
-This is an April fools prank that when you get close to it, it pops glitter on you.
+This is an April fools prank that when you get close to it popes glitter\flour on you. You can set it up in someone's room or a place people pass by and from curiosity they would try to look closer, the distance sensor would notice it, open the lid for the balloon and pop it with a needle.
 <img width="666" height="374" alt="Untitled design" src="https://github.com/user-attachments/assets/c0d9ce80-6aee-4520-8a82-3b488a35cd54" />
 #
 
