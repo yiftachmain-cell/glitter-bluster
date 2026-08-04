@@ -1,4 +1,4 @@
-### Glitter Bluster
+### Glitter Blaster
 This is an April fools prank that when you get close to it popes glitter\flour on you. You can set it up in someone's room or a place people pass by and from curiosity they would try to look closer, the distance sensor would notice it, open the lid for the balloon and pop it with a needle.
 <img width="666" height="374" alt="Untitled design" src="https://github.com/user-attachments/assets/c0d9ce80-6aee-4520-8a82-3b488a35cd54" />
 #
@@ -31,9 +31,9 @@ When the Time Of Flight sensor (the distance sensor) detects something, it opens
 
 **Please note that the prices in the BOM table are WITHOUT the usual discount of AliExpress (the parts are very likely to be cheaper than what the table says)**
 #
-Watch the [demo video](https://youtu.be/UB9MXop2fOg) showing how the Glitter Bluster functions.
+Watch the [demo video](https://youtu.be/UB9MXop2fOg) showing how the Glitter Blaster functions.
 
-# Glitter Bluster Assembly Guide:
+# Glitter Blaster Assembly Guide:
 [<img src="https://github.com/user-attachments/assets/59e66ebe-bdc4-4d0c-827a-81d3193be356" alt="Glitter Bluster Assembly Guide" width="100%">](https://www.youtube.com/watch?v=8ktf_xdbQtQ)
 Click the image to watch the Assembly Guide
 #
