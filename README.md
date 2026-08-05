@@ -31,10 +31,10 @@ When the Time Of Flight sensor (the distance sensor) detects something, it opens
 
 **Please note that the prices in the BOM table are WITHOUT the usual discount of AliExpress (the parts are very likely to be cheaper than what the table says)**
 #
-Watch the [demo video](https://youtu.be/UB9MXop2fOg) showing how the Glitter Blaster functions.
+Watch the [demo video](https://youtu.be/dE_-zuPMWI8) showing how the Glitter Blaster functions.
 
 # Glitter Blaster Assembly Guide:
-[<img src="https://github.com/user-attachments/assets/59e66ebe-bdc4-4d0c-827a-81d3193be356" alt="Glitter Bluster Assembly Guide" width="100%">](https://www.youtube.com/watch?v=8ktf_xdbQtQ)
+[<img src="https://github.com/user-attachments/assets/59e66ebe-bdc4-4d0c-827a-81d3193be356" alt="Glitter Bluster Assembly Guide" width="100%">](https://youtu.be/URdSpKzBYYo)
 Click the image to watch the Assembly Guide
 #
 
