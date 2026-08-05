@@ -53,3 +53,5 @@ Click the image to watch the Assembly Guide
 #
 $\color{red}{\text{Use at your own risk}}$.
 #
+
+Designed with **Fusion 360** and sponsored by [Hack Club](https://hackclub.com/) (@macondo).
