@@ -39,6 +39,9 @@ Watch the [demo video](https://youtu.be/dE_-zuPMWI8) showing how the Glitter Bla
 Click the image to watch the Assembly Guide
 #
 
+# wiring diagram:
+<img width="2016" height="1578" alt="Screenshot 2026-08-06 225415" src="https://github.com/user-attachments/assets/f81b3c48-6669-424c-8a1a-1aceb1254b94" />
+
 # Printing recommendations:
 - Don't print the case with the default parameters, it would take a lot more material than needed.
   - Settings for the case:
