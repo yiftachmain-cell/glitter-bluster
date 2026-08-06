@@ -51,6 +51,8 @@ Click the image to watch the Assembly Guide
 - Recommended printing variation of all of the parts:
   <img width="2021" height="1112" alt="image" src="https://github.com/user-attachments/assets/354de6c0-282b-4986-bb42-8f221d28cbf3" />
 
+  # [CAD design link](https://a360.co/3TIUMNJ)
+
 #
 $\color{red}{\text{Use at your own risk}}$.
 #
