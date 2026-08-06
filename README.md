@@ -1,5 +1,5 @@
 ### Glitter Blaster
-This is an April fools prank that when you get close to it popes glitter\flour on you. You can set it up in someone's room or a place people pass by and from curiosity they would try to look closer, the distance sensor would notice it, open the lid for the balloon and pop it with a needle.
+This is an April Fools prank designed to punish anyone who gets a little too curious. When placed in a bedroom or hallway, a distance sensor detects when a person leans in to take a closer look. Once triggered, the device opens a lid and uses a needle to pop a balloon, scaring someone and blasting a cloud of glitter or flour.
 <img width="666" height="374" alt="Untitled design" src="https://github.com/user-attachments/assets/c0d9ce80-6aee-4520-8a82-3b488a35cd54" />
 #
 
